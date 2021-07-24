@@ -109,7 +109,7 @@ Desktop mode */
 /* ####################### Showcase ############## */
 .showcase-area{
     height: 95vh;
-    background: url("../img/head.jpej")
+    background: url("../img/head.jpeg")
     /*background-image: linear-gradient(to right top, #69EACB 0%, #EACCF8 48%, #6654F1 100%);*/
     /* background-color: #aaa; */
     background-size: cover;
